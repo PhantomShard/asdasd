@@ -1,0 +1,1 @@
+vmess://8d42a5c3-da39-4156-b764-7c120ac16b1e@www.americamovil.com:80?encryption=auto&host=gaby.oscar-rd.eu.org&path=GLIRANZO&type=ws
